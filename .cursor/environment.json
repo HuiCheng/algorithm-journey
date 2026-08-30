@@ -1,0 +1,4 @@
+{
+  "name": "algorithm-journey",
+  "install": "bash .cursor/install.sh"
+}
